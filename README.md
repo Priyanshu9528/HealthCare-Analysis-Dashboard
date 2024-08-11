@@ -44,7 +44,7 @@ You can view the live dashboard on Power BI by following this [link](https://app
 
 ## Screenshot
 
-![Medicare Hospital Analysis Dashboard](./medicare_hospital_analysis_Dashboard.png)
+![Medicare Hospital Analysis Dashboard](./Medicare_hospital_Analysis_Dashboard.png)
 
 ## License
 
