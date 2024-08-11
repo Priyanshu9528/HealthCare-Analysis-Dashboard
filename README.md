@@ -32,6 +32,11 @@ The dataset used in this project, `medicare_hospital_DataSet.xlsx`, includes var
 3. Ensure the `medicare_hospital_DataSet.xlsx` file is in the same directory as the Power BI file or update the data source location in Power BI.
 4. Explore the dashboard and interact with the visualizations to gain insights.
 
+
+## Project Link
+
+You can view the live dashboard on Power BI by following this link.
+
 ## Key Insights
 
 - The dashboard provides a holistic view of hospital operations, focusing on the efficiency of bed utilization and common diagnoses.
