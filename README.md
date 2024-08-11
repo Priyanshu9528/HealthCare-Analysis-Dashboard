@@ -32,10 +32,9 @@ The dataset used in this project, `medicare_hospital_DataSet.xlsx`, includes var
 3. Ensure the `medicare_hospital_DataSet.xlsx` file is in the same directory as the Power BI file or update the data source location in Power BI.
 4. Explore the dashboard and interact with the visualizations to gain insights.
 
-
 ## Project Link
 
-You can view the live dashboard on Power BI by following this link.
+You can view the live dashboard on Power BI by following this [link](https://app.powerbi.com/groups/me/reports/65d271c3-d407-41a5-9908-a946d09d466d/b873e1b2bffefa4ff482?experience=power-bi).
 
 ## Key Insights
 
@@ -45,10 +44,9 @@ You can view the live dashboard on Power BI by following this link.
 
 ## Screenshot
 
-![Medicare Hospital Analysis Dashboard](./Medicare_hospital_Analysis_Dashboard.png)
+![Medicare Hospital Analysis Dashboard](./medicare_hospital_analysis_Dashboard.png)
 
 ## License
 
 This project is licensed under the MIT License.
-
 
