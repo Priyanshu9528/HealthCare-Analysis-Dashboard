@@ -1,7 +1,3 @@
-Here's a README file based on the information from the files and image you provided:
-
----
-
 # Medicare Hospital Analysis Dashboard
 
 ## Project Overview
@@ -44,16 +40,10 @@ The dataset used in this project, `medicare_hospital_DataSet.xlsx`, includes var
 
 ## Screenshot
 
-![Medicare Hospital Analysis Dashboard](./medicare_hospital_analysis_Dashboard.png)
+![Medicare Hospital Analysis Dashboard](./Medicare_hospital_Analysis_Dashboard.png)
 
 ## License
 
 This project is licensed under the MIT License.
 
-## Contact
 
-For any queries or further information, please reach out to the project maintainer.
-
----
-
-You can customize this README further by adding more specific details or sections as needed.
